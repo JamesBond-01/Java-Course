@@ -1,0 +1,14 @@
+Practice Example 1: Checking Pass or Fail With Conditionals
+
+Practice example 1: If else / pass or fail
+
+
+    Prompt the user to enter his marks in the range of 0-100.
+
+    Accept the marks obtained by the user.
+
+    Compare the marks obtained using a conditional.
+
+    If marks obtained >=35, print a message “You passed”.
+
+    If marks obtained <35, print a message “You Failed”.
