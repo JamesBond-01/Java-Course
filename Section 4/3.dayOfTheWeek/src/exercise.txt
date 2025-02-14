@@ -1,0 +1,9 @@
+Practice Example 3: Finding Day Of The Week Using Switch Case
+
+Practice example 3: Switch case, Day of the week
+
+Write a program to accept the day of the week from the user and display the name of the day accordingly.
+
+For example, if the user enters the day number as 1, the user should get a message as Monday.
+
+Use a switch case to implement the solution.
