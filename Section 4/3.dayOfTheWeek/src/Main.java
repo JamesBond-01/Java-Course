@@ -4,8 +4,10 @@ public class Main {
     public static void main(String[] args) {
         int dayNumber;
         Scanner input = new Scanner(System.in);
+
         System.out.print("Enter the day number: ");
         dayNumber = input.nextInt();
+
         // Shows the day name that matches the users input.
         switch (dayNumber) {
             case 1:
